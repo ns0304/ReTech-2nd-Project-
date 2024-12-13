@@ -98,4 +98,3 @@ http://c5d2403t1.itwillbs.com/Retech_Project/
 |<img src="https://github.com/user-attachments/assets/12da34f9-a662-44ea-a0b8-d7a1c8be7069"  width="400" height="300"/>|<img src="https://github.com/user-attachments/assets/daabd340-8ef4-4a44-88bd-7d46d993792f"  width="400" height="300"/>|
 |- 카테고리 선택 <br>- 아래로 스크롤 시 게시글 자동 로딩|- 상품의 이미지가 슬라이드 형식으로 출력<br>- 거래하기, 찜하기 버튼 및 판매자 정보<br>- 판매자 본인은 수정하기/삭제하기/끌어올리기 가능
 
-|
